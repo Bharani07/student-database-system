@@ -1,18 +1,10 @@
 The project is student database management system , it is used to identify the student details their registration number,marks,id num etc...
-INSTRUCTIONS OF BASIC BUILD:-
 
-go to your command window
-write---> cd desktop
-git clone URL
-you got all files on desktop
-if u want excute in command window go to the file copy the path enter "cmd" command over there
-and compile it.
-OR:-----
-git add. Usage: git add [file] ...
-git commit. Usage: git commit -m “[ Type in the commit message]” ...
-git diff. Usage: git diff. ...
-git reset. Usage: git reset [file] ...
-git log. Usage: git log. ...
-git branch. Usage: git branch. ...
-git checkout. Usage: git checkout [branch name] ...
-git push. Usage: git push [variable name] master/
+BASIC BUILD INSTRUCTIONS:-------------
+GO TO COMMAND WINDOW WRITE CD DESKTOP-------------------------------------------------------------
+GIT CLONE https://github.com/Bharani07/student-database-system.git --------------------------------------------------
+GOT ALL FILES ON DESKTOP---------------
+YOU CAN EXCUTE EVERYWHERE JAVA IS A PLATFORM INDEPEDENT--------\
+GO TO FILE FOLDER YOU SELECT THE PATH WRITE "CMD" COMMAND OVER THERE----------
+YOU CAN COMPILE/RUN
+
